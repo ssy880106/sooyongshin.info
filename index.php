@@ -10,6 +10,13 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        Something Great (Hopefully) coming soon.
+        <header>
+            <h1>Something Great shall Rise!</h1>
+            <br>
+            <hr>
+        </header>
+        <a href="portfolio.php">portfolio (what I have done)</a>
+        <br><br>
+        <a href="blog.php">blog (what I'm currently doing/learning)</a>
     </body>
 </html>
